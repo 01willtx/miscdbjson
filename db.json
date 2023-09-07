@@ -28,8 +28,6 @@
   "profile": {
     "name": "typicode"
   },
-  "colors" : [
-	{ "color" : "blue"},
-	{ "color" : "red"}
-  ]
+  "colors" : [ "blue", "red"],
+  "items" : ["1","5","2","3","4"]
 }
