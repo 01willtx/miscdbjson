@@ -28,7 +28,7 @@
   "profile": {
     "name": "typicode"
   },
-  "colors": "blue",
+  "colors": ["blue"],
   "items": [
     "1",
     "5",
